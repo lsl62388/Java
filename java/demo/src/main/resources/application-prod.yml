@@ -1,0 +1,5 @@
+server:
+  port: 8080
+phone:
+  phoneName : xxx
+  phoneNum : 18758897433
